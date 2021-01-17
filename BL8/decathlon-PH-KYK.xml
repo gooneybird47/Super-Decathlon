@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<PropertyList include="decathlon-no-spats.xml">
+
+
+ <texture-path>Textures/PH-KYK</texture-path>
+ 
+    <animation>
+   <type>select</type>
+      <object-name>spats</object-name>
+         <condition>
+            <equals>
+            <property>/sim/signals/fdm-initialized</property>
+            <value>0</value>
+            </equals>
+         </condition>
+   </animation>
+
+</PropertyList>
