@@ -85,6 +85,9 @@
             <z>0.0</z>
         </axis>
     </animation>
-
+    <!-- ALS Navigation Lights Objects -->
+    <model>
+        <path>Lights/decathlon-NavLights.xml</path>
+    </model>
 
 </PropertyList>
