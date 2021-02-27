@@ -1,6 +1,6 @@
 # Super-Decathlon
 ### AI Aircraft for FlightGear
-####Now with navigation lights.
+#### Now with navigation lights.
 
 *This is still WIP but should now be working as intended.*
 
